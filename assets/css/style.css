@@ -17,6 +17,14 @@ body {
 body {
     font-family: Arial, sans-serif;
 }
+.ctn{
+    border: 3px solid green;
+    /* background-image: url(mic.jpg); */
+    background-color: #677da9;
+}
+h2{
+    text-align: center;
+}
 
 header {
     background-color: #f0f0f0;
